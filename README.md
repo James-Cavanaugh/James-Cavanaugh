@@ -1,92 +1,25 @@
-<div align="center">👋 Hey, I’m James</div>
-<div align="center">
+<h1 align="left">Hey there 👋, I'm James Cavanaugh</h1> <!-- Stats (Top Row) --> <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamescavanaugh&color=blue" /> <img src="https://img.shields.io/github/followers/jamescavanaugh?style=social" /> </p> <!-- Tech Badges (Middle Row) --> <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" /> <img src="https://img.shields.io/badge/VR/AR-000000?logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Focus-Full_Stack-green" /> </p> <!-- Social Buttons (Bottom Row) --> <p align="left"> <a href="https://www.youtube.com/@JiimzVR" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /> </a> <a href="https://discord.com/users/905959585574187068" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /> </a> <a href="https://www.instagram.com/james.cavv/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white" /> </a> <a href="https://open.spotify.com/user/w4otzd19r67srvxe6m0cupzph" target="_blank"> <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white" /> </a> </p> <hr/> <h2 align="left">🧑‍💻 About me</h2> <p align="left"> I'm a first-year Computer Science student at NC State who enjoys building practical tools, learning how real systems work, and improving a little each day. I like taking ideas from a rough concept to something functional and reliable, and I'm constantly looking for ways to deepen my understanding of software engineering. </p> <p align="left"> Outside of development, I compete in VR esports (Breachers), explore real-time systems and VR technologies, and stay focused on building a strong foundation for future work in immersive and full-stack software. </p> <hr/> <h2 align="left">🚀 What I'm building</h2> <h3 align="left">🔗 Inlync - Cross-platform chat unifier</h3> <p align="left"> Inlync started as a personal project to unify Twitch, YouTube, and Kick chats into one interface. It's grown into a real system featuring async event handling, OAuth integrations, and a clean, functional GUI. </p> <p align="left"> I'm currently working on designing the full-stack version - accounts, subscriptions, a desktop client, and more scalable architecture. It's been one of the best projects for learning how to think like a software engineer. </p> <h3 align="left">🛠️ Tools and workflow experiments</h3> <p align="left"> I regularly build small utilities that solve problems I run into - automation scripts, quick GUIs, algorithm playgrounds, and data-processing tools. These help me sharpen fundamentals while improving my day-to-day workflow. </p> <hr/> <h2 align="left">🧠 Interests</h2>
 
-Software Developer • CS @ NC State • Builder of things that shouldn’t work but somehow do
+Full-stack development
 
-<br>
+Real-time systems
 
+VR and immersive technology
 
+Systems programming concepts
 
+Competitive VR gaming
 
+<hr/> <h2 align="left">🎯 Where I'm heading</h2> <p align="left"> I'm working toward software engineering and immersive tech roles. My plan is to learn quickly, ship meaningful projects, build a strong portfolio, and prepare for <strong>SWE internships in Summer 2026</strong>. </p> <hr/> <h2 align="left">🔥 Current focus</h2>
 
+Polishing the Python version of <strong>Inlync</strong>
 
-
-
-
-
-
-
-
-
-</div>
-<div align="center"> I’m a first-year CS student who likes building tools, messing with real-time systems, and stretching projects way past their “prototype” phase. If we were chatting over coffee, you’d probably hear me talk about the weird things I'm building and how they broke before they worked. </div>
-<div align="center">🚀 What I’m Building</div>
-<div align="center">🔗 Inlync — Cross-Platform Chat Unifier</div>
-<div align="center">
-
-Originally a Python project to combine Twitch, YouTube, and Kick chat.
-Now it’s turning into something bigger: real-time message handling, OAuth integrations, a desktop client, and eventually a full-stack app with accounts and subscriptions.
-
-Clean UI, reliable async systems, and an actually pleasant chat experience — that’s the goal.
-
-</div>
-<div align="center">🛠️ Tools, Experiments & Workflow Stuff</div>
-<div align="center">
-
-I write a lot of small tools that make my workflow better:
-
-Data-processing scripts
-
-GUI prototypes
-
-Algorithm playgrounds
-
-Automation tools
-
-Anything that solves an annoyance
-
-These projects teach me fundamentals while giving me instant quality-of-life improvements.
-
-</div>
-<div align="center">🤖 Embedded Projects (Arduino Nano ESP32)</div>
-<div align="center">
-
-I like stepping out of pure software and touching real hardware.
-Working with microcontrollers forces me to think carefully about memory, timing, and communication — which makes me a stronger developer.
-
-</div>
-<div align="center">🧠 What I’m Into</div>
-<div align="center">
-
-Full-stack development • Real-time systems • VR/AR design • Systems programming •
-Competitive VR gaming (Breachers) • Clean, meaningful UI/UX
-
-</div>
-<div align="center">🎯 Where I’m Heading</div>
-<div align="center">
-
-I’m building toward software engineering and immersive tech roles.
-Right now I’m focused on learning quickly, building things that matter to me, and getting ready for SWE internships starting Summer 2026.
-
-</div>
-<div align="center">🔥 Current Focus</div>
-<div align="center">
-
-Finishing and polishing Inlync
-
-Planning the full-stack version
-
-Building out my GitHub portfolio
+Designing the full-stack architecture for its next stage
 
 Strengthening DS&A and systems fundamentals
 
-Exploring VR/AR interface patterns and real-time pipelines
+Building out a clean, representative GitHub portfolio
 
-</div>
-<div align="center">📫 Let’s Connect</div>
-<div align="center">
+Studying real-time VR and interaction systems
 
-Always down to talk code, VR, or whatever you're building.
-If you’re working on something interesting and want to bounce ideas around — reach out.
-
-</div>
+<hr/> <h2 align="left">📫 Let's connect</h2> <p align="left"> If you're building something interesting - a tool, an app, or anything in VR - I'm always open to talk or collaborate. </p>
