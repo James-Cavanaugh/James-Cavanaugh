@@ -24,11 +24,11 @@
 
 <!-- Row 3 — Languages + Focus (not clickable) -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/VR/AR-000000?logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack-green" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" disabled/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" disabled/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" disabled/>
+  <img src="https://img.shields.io/badge/VR/AR-000000?logo=meta&logoColor=white" disabled/>
+  <img src="https://img.shields.io/badge/Focus-Full_Stack-green" disabled/>
 </p>
 
 <hr/>
