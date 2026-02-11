@@ -31,7 +31,7 @@
 <hr/>
 <h2>🧑‍💻 About me</h2>
 <p>
-I'm a first-year Computer Science student at NC State who enjoys programming, learning how real systems work, and improving a little each day. I like learning new languages, concepts, data structures, and programming patterns. I'm constantly looking for ways to deepen my understanding of software engineering each day.
+I'm a first-year Computer Science student at NC State who enjoys programming, exploring repositories, and improving a little each day. I like learning new languages, concepts, data structures, and programming patterns. I'm constantly looking for ways to deepen my understanding of software engineering each day.
 </p>
 <p>
 Outside of development, I compete in VR esports (Breachers), explore open source projects and VR tech, and stay focused on building a strong foundation for future work in whatever programming field I choose to go into.
