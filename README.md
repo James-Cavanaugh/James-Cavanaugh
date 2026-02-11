@@ -65,6 +65,7 @@ Currently I have a few Python books that I am reading through, and most of my ti
   <li>Classic Computer Science Problems in Python/li>
   <li>Effective Python</li>
   <li>Flask Web Development</li>
+  <li>Design Patterns: Elements of Reusable Object-Oriented Software</li>
 </ul>
 <p>
 
