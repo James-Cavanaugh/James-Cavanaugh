@@ -75,7 +75,6 @@ Currently I have a few Python books that I am reading through, and most of my ti
 <br>Systems programming<br/>
 <hr/>
 
-<hr/>
 <h2>🔥 Current focus</h2>
 <br>Working on the <strong>Fastr</strong> mobile app<br/>
 <br>Reading through my current stack of programming/python books<br/>
