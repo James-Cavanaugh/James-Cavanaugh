@@ -1,3 +1,5 @@
+<!-- Hello anyone reading this, I vibe coded this thing before I learned HTML. I learned HTML and now I'm just changing all of the content to be from me and adding/removing sections to reflect what I'm doing currently. I plan on coming back to revamp the structure when I have more time but I hope the ai structure doesn't dissuade you. -->
+
 <h1>Hey there 👋, I'm James Cavanaugh</h1>
 <p>
   <img src="https://komarev.com/ghpvc/?username=jamescavanaugh&color=blue"/>
@@ -22,7 +24,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" disabled/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" disabled/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" disabled/>
   <img src="https://img.shields.io/badge/VR/AR-000000?logo=meta&logoColor=white" disabled/>
   <img src="https://img.shields.io/badge/Focus-Full_Stack-green" disabled/>
 </p>
@@ -30,27 +31,32 @@
 <hr/>
 <h2>🧑‍💻 About me</h2>
 <p>
-I'm a first-year Computer Science student at NC State who enjoys building practical tools, learning how real systems work, and improving a little each day. I like taking ideas from a rough concept to something functional and reliable, and I'm constantly looking for ways to deepen my understanding of software engineering.
+I'm a first-year Computer Science student at NC State who enjoys programming, learning how real systems work, and improving a little each day. I like learning new languages, concepts, data structures, and programming patterns. I'm constantly looking for ways to deepen my understanding of software engineering each day.
 </p>
 <p>
-Outside of development, I compete in VR esports (Breachers), explore real-time systems and VR technologies, and stay focused on building a strong foundation for future work in immersive and full-stack software.
+Outside of development, I compete in VR esports (Breachers), explore open source projects and VR tech, and stay focused on building a strong foundation for future work in whatever programming field I choose to go into.
+</p>
+<p>
+  <strong>I am currently searching for an internship in Software Engineering for summer 2026.</strong>
 </p>
 
 <hr/>
 
 <h2>🚀 What I'm building</h2>
 
-<h3>🔗 Inlync - Cross-platform chat unifier</h3>
+<h3>🔗 Inlync - Cross-Platform Chat Unifier</h3>
 <p>
-Inlync started as a personal project to unify Twitch, YouTube, and Kick chats into one interface. It's grown into a real system featuring async event handling, OAuth integrations, and a clean, functional GUI.
-</p>
-<p>
-I'm currently working on designing the full-stack version — accounts, subscriptions, a desktop client, and more scalable architecture. It's been one of the best projects for learning how to think like a software engineer.
+Inlync started as a personal project to unify Twitch, YouTube, Kick, and pretty much any other livestreaming chats into one interface. It's still a big work in progress that I've put to the side for the time being to focus on reading and other simpler projects.
 </p>
 
-<h3>🛠️ Mini Projects and Tests to Solidify Reading</h3>
+<h3>🍔 Fastr - Mobile Fasting Timer</h3>
 <p>
-Currently I have a few Python books that I am reading through, and most of my time currently is being spent reading those books and doing mini projects based on the chapters that I have read. The books I plan on reading or am currently reading are listed below.
+  Fastr is a personal project that I am working on in large part for my parents to be able to track their fasting time and give them statistics, graphs, and general insight all on their phones. I am making it using Kivy in Python, and right now the project is very bare bones but is functional (check out the repo if you are interested)
+</p>
+
+<h3>🛠️ Reading and Side-Projects</h3>
+<p>
+Currently I have a few Python books that I am reading through, and most of my time currently is being spent reading those books and doing projects based on the chapters that I have read. The books I plan on reading or am currently reading are listed below.
 </p>
 <ul>
   <li>Python Crash Course 2nd Edition</li>
@@ -60,31 +66,24 @@ Currently I have a few Python books that I am reading through, and most of my ti
   <li>Effective Python</li>
   <li>Flask Web Development</li>
 </ul>
+<p>
 
 <hr/>
 <h2>🧠 Interests</h2>
 <br>Full-stack development<br/>
-<br>Real-time systems<br/>
-<br>VR and immersive technology<br/>
-<br>Systems programming concepts<br/>
-<br>Competitive VR gaming<br/>
+<br>Virtual Reality<br/>
+<br>Systems programming<br/>
 <hr/>
-
-<h2>🎯 Where I'm heading</h2>
-<p>
-I'm working toward software engineering and immersive tech roles. My plan is to learn quickly, ship meaningful projects, build a strong portfolio, and prepare for <strong>SWE internships in Summer 2026</strong>.
-</p>
 
 <hr/>
 <h2>🔥 Current focus</h2>
-<br>Polishing the Python version of <strong>Inlync</strong><br/>
-<br>Designing the full-stack architecture for its next stage<br/>
-<br>Strengthening DS&A and systems fundamentals<br/>
-<br>Building out a clean, representative GitHub portfolio<br/>
-<br>Studying real-time VR and interaction systems<br/>
+<br>Working on the <strong>Fastr</strong> mobile app<br/>
+<br>Reading through my current stack of programming/python books<br/>
+<br>Grinding the NeetCode 150 alongside an independent DSA course<br/>
+<br>Building out a solid GitHub portfolio<br/>
 <hr/>
 
 <h2>📫 Let's connect</h2>
 <p>
-If you're building something interesting — a tool, an app, or anything in VR - I'm always open to talk or collaborate.
+If you're building something interesting - a tool, an app, or anything in VR - I'm always open to talk or collaborate.
 </p>
