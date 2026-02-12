@@ -31,7 +31,7 @@
 <hr/>
 <h2>🧑‍💻 About me</h2>
 <p>
-I'm a first-year Computer Science student at NC State who enjoys programming, exploring repositories, and improving a little each day. I like learning new languages, concepts, data structures, and programming patterns. I'm constantly looking for ways to deepen my understanding of software engineering each day.
+I'm a first-year Computer Science student at NC State who enjoys programming, reading programming books, and learning a little more each day. I enjoy exploring new languages, concepts, data structures, and programming patterns. I'm constantly looking for ways to deepen my understanding of software engineering each day.
 </p>
 <p>
 Outside of development, I compete in VR esports (Breachers), explore open source projects and VR tech, and stay focused on building a strong foundation for future work in whatever programming field I choose to go into.
@@ -56,7 +56,7 @@ Inlync started as a personal project to unify Twitch, YouTube, Kick, and pretty 
 
 <h3>🛠️ Reading and Side-Projects</h3>
 <p>
-Currently I have a few Python books that I am reading through, and most of my time currently is being spent reading those books and doing projects based on the chapters that I have read. The books I plan on reading or am currently reading are listed below.
+I currently have a few Python books I am reading through, and most of my time is spent reading them and working on projects based on the chapters I have read. The books I plan on reading or am currently reading are listed below.
 </p>
 <ul>
   <li>Python Crash Course 2nd Edition</li>
@@ -78,7 +78,7 @@ Currently I have a few Python books that I am reading through, and most of my ti
 
 <h2>🔥 Current focus</h2>
 <br>Working on the <strong>Fastr</strong> mobile app<br/>
-<br>Reading through my current stack of programming/python books<br/>
+<br>Reading through my current stack of programming/Python books<br/>
 <br>Grinding the NeetCode 150 alongside an independent DSA course<br/>
 <br>Building out a solid GitHub portfolio<br/>
 <hr/>
