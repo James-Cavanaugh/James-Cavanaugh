@@ -59,8 +59,8 @@ Inlync started as a personal project to unify Twitch, YouTube, Kick, and pretty 
 I currently have a few Python books I am reading through, and most of my time is spent reading them and working on projects based on the chapters I have read. The books I plan on reading or am currently reading are listed below.
 </p>
 <ul>
-  <li>Python Crash Course 2nd Edition</li>
-  <li>Beyond The Basic Stuff With Python</li>
+  <li><s>Python Crash Course 2nd Edition</s></li>
+  <li><s>Beyond The Basic Stuff With Python</s></li>
   <li>Robust Python</li>
   <li>Classic Computer Science Problems in Python/li>
   <li>Effective Python</li>
